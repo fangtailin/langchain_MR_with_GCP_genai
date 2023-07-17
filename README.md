@@ -1,1 +1,1 @@
-# langchain_MR_with_GCP_genai
+# langchain_MR_with_GCP_Gen_AI
