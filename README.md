@@ -1,6 +1,6 @@
 # langchain_MR_with_GCP_Gen_AI
 
-Almost all LLM APIs have limit on tokens of prompt. 
+Almost all LLM APIs have limits on the tokens of prompt. 
 
 GCP: https://cloud.google.com/vertex-ai/docs/generative-ai/learn/models
 
